@@ -1,4 +1,4 @@
-site_name: Demo 網站
+﻿site_name: Demo
 nav:
   - 首頁: index.md
 theme: readthedocs
